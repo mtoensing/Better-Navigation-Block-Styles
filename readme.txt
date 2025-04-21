@@ -36,21 +36,8 @@ This plugin is ideal for users who want a quick and effective solution to enhanc
 
 This plugin is designed to work with themes that utilize the default WordPress block-based navigation menu. Compatibility with other themes may vary.
 
-= Can I customize the styles further? =
-
-Yes, you can override the plugin's CSS by adding your own styles to your theme's stylesheet or using the WordPress Customizer's Additional CSS section.
-
-== Screenshots ==
-
-1. Default mobile menu before applying Better Mobile Menu.
-2. Enhanced mobile menu after applying Better Mobile Menu.
-
 == Changelog ==
 
 = 1.0 =
 * Initial release with improved mobile menu styles.
 
-== Upgrade Notice ==
-
-= 1.0 =
-Initial release. Enhances the default WordPress mobile menu for better usability on mobile devices.
