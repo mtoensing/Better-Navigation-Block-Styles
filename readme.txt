@@ -3,7 +3,7 @@ Contributors: marcdk
 Donate link: https://marc.tv/out/donate
 Tags: mobile menu, hamburger menu, navigation, responsive, css fix
 Requires at least: 5.0
-Tested up to: 6.5
+Tested up to: 6.8
 Stable tag: 1.0
 Requires PHP: 7.0
 License: GPLv2 or later
