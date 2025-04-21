@@ -32,7 +32,7 @@ This plugin is ideal for users who want a quick and effective solution to enhanc
 
 == Frequently Asked Questions ==
 
-= Does this plugin work with all themes? =
+= Does this plugin work with all block themes? =
 
 This plugin is designed to work with themes that utilize the default WordPress block-based navigation menu. Compatibility with other themes may vary.
 
