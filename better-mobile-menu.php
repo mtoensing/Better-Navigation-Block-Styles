@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Better Mobile Menu
+Plugin Name: Better Navigation Block Styles
 Description: Improves the default WordPress mobile hamburger menu appearance by loading optimized CSS.
 Version: 1.0
 Author: Marc Tönsing
@@ -58,8 +58,6 @@ function bmm_enqueue_custom_css() {
             margin: 0 !important;
             padding: 0 !important;
         }
-
-
     ');
 }
 add_action('wp_enqueue_scripts', 'bmm_enqueue_custom_css');

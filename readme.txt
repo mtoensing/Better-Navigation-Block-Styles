@@ -1,4 +1,4 @@
-=== Better Mobile Menu ===
+=== Better Navigation Block Styles ===
 Contributors: marcdk
 Donate link: https://marc.tv/out/donate
 Tags: mobile menu, hamburger menu, navigation, responsive, css fix
