@@ -1,9 +1,11 @@
 <?php
 /*
 Plugin Name: Better Navigation Block Styles
+Plugin URI: http://toensing.com/
 Description: Improves the default WordPress mobile hamburger menu appearance by loading optimized CSS.
 Version: 1.0
 Author: Marc Tönsing
+Author URI: https://toensing.com
 License: GPLv2 or later
 */
 
