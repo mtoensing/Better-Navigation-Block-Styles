@@ -23,6 +23,11 @@ body .has-modal-open .wp-block-navigation__responsive-dialog {
     border-bottom: 1px solid #ddd;
     font-size: 24px;
     width: 100%;
+    margin: 20px auto;
+}
+
+.has-modal-open .wp-block-navigation__responsive-dialog ul.wp-block-navigation__container a {
+    padding: 10px 0 ! important;
 }
 
 .wp-block-navigation .has-child .wp-block-navigation__submenu-container > .wp-block-navigation-item > .wp-block-navigation-item__content {
