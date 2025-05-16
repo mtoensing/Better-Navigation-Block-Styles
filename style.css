@@ -19,11 +19,10 @@ body .has-modal-open .wp-block-navigation__responsive-dialog {
     width: 100%;
 }
 
-.has-modal-open .wp-block-navigation__responsive-dialog ul.wp-block-navigation__container .wp-block-navigation-item a {
-    border-top: 1px solid #ddd;
+.has-modal-open .wp-block-navigation__responsive-dialog ul.wp-block-navigation__container > li:not(.wp-block-navigation__submenu-container) > a.wp-block-navigation-item__content {
+    border-bottom: 1px solid #ddd;
     font-size: 24px;
     width: 100%;
-    padding: 15px 0px;
 }
 
 .wp-block-navigation .has-child .wp-block-navigation__submenu-container > .wp-block-navigation-item > .wp-block-navigation-item__content {
